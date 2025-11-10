@@ -5,7 +5,7 @@ To analyze sales, profit, and marketing performance across different coffee prod
 
 ---
 
-### 🗂 Dataset
+###  Dataset
 `Coffee_Chain.csv`
 
 ---
